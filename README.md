@@ -7,7 +7,7 @@
 <div align="center">
 
 [<img src="icons/linkedin.svg" height="30" alt="LinkedIn"/>](https://br.linkedin.com/in/phelipe-melo-matos-a32295298)
-[<img src="icons/youtube.svg" height="30" alt="YouTube"/>](https://youtube.com/@phelipee15)
+[<img src="icons/lattes.svg" height="30" alt="Lattes"/>](https://lattes.cnpq.br/8470106479716686)
 [<img src="icons/gmail.svg" height="30" alt="Gmail"/>](mailto:phelipemelomatos@gmail.com)
 [<img src="icons/github.svg" height="30" alt="GitHub"/>](https://github.com/phelipee15)
 [<img src="icons/discord.svg" height="30" alt="Discord"/>](https://discord.com/users/540257611686346772)

@@ -1,6 +1,6 @@
 <!-- Banner animado -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a2a6c,50:3e5abb,100:2b4aad&height=200&section=header&text=Phelipe%20Melo&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Developer%20%7C%20Data%20Science%20%7C%20Backend&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a2a6c,50:3e5abb,100:2b4aad&height=200&section=header&text=Anthony%20Marques&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Developer%20%7C%20Data%20Science%20%7C%20Backend&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 </div>
 
 <!-- Badges de redes sociais -->

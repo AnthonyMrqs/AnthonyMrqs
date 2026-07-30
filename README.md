@@ -1,140 +1,29 @@
-<!-- Banner animado -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a2a6c,50:3e5abb,100:2b4aad&height=200&section=header&text=Anthony%20Marques&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Developer%20%7C%20Data%20Science%20%7C%20Backend&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
-</div>
-
-<!-- Badges de redes sociais -->
-<div align="center">
-
-[<img src="icons/linkedin.svg" height="30" alt="LinkedIn"/>](https://br.linkedin.com/in/phelipe-melo-matos-a32295298)
-[<img src="icons/lattes.svg" height="30" alt="Lattes"/>](https://lattes.cnpq.br/8470106479716686)
-[<img src="icons/gmail.svg" height="30" alt="Gmail"/>](mailto:phelipemelomatos@gmail.com)
-[<img src="icons/github.svg" height="30" alt="GitHub"/>](https://github.com/phelipee15)
-[<img src="icons/discord.svg" height="30" alt="Discord"/>](https://discord.com/users/540257611686346772)
-
-</div>
-
-<br/>
-
-<!-- Visitor counter -->
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=phelipee15&color=1a2a6c&style=flat-square&label=Visitantes+no+perfil" alt="Visitantes"/>
-</div>
-
-## <img src="icons/hand_wave.svg" width="32" align="center"/> Sobre mim
-
-```python
-phelipe = {
-    "nome":       "Phelipe Melo Matos",
-    "localização":"Sergipe, Brasil",
-    "formação":   "Graduando de Matemática Aplicada e Computacional na Universidade Federal de Sergipe (UFS)",
-    "papéis":     ["Desenvolvedor", "CEO @ SourceScripts", "Membro LAME"],
-    "interesses": ["Ciência de Dados", "IA", "Backend", "Automação", "Banco de Dados"],
-    "status":     "Em constante evolução"
-}
-```
-
-## <img src="icons/lame.svg" width="32" align="center"/> Liga Acadêmica — LAME
-
-Faço parte da **Liga Acadêmica de Matemática e Empresa da UFS (LAME)**, onde atuo no desenvolvimento de projetos que unem matemática, com aplicações práticas em tecnologia e negócios.
-
-### <img src="icons/android.svg" width="20" align="center"/> Liga Jovem Sebrae 2025 — EcoRotaAju
-Projeto desenvolvido como parte do **desafio proposto pelo Sebrae**, com foco em sustentabilidade urbana. Criamos o **EcoRotaAju**, um aplicativo móvel que permite aos usuários localizar pontos de descarte correto de **lixo eletrônico** em Aracaju, promovendo consciência ambiental e logística reversa acessível.
-
-### <img src="icons/folder.svg" width="20" align="center"/> Projeto TRE — Análise de Urnas Eletrônicas
-Projeto de análise de dados em colaboração com o **Tribunal Regional Eleitoral (TRE)**. Realizamos um estudo aprofundado das **sessões eleitorais e modelos de urnas eletrônicas**, aplicando técnicas de análise de dados para identificar urnas críticas e apoiar decisões de manutenção e logística eleitoral.
-
-<div align="center">
-  <a href="https://sites.google.com/mat.ufs.br/lame" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Site%20da%20LAME-302b63?style=for-the-badge&logo=googlesites&logoColor=white" alt="Site LAME"/>
-  </a>
-</div>
-
-## <img src="icons/developer.svg" width="32" align="center"/> Tecnologias & Ferramentas
-
+<div align="center"> <img src="https://capsule-render.com/api?type=waving&color=0:995CD0,100:8EDF5F&height=220&section=header&text=Anthony%20%F0%9F%91%8B&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Matem%C3%A1tica%20Computacional%20%C2%B7%20TDA%20%C2%B7%20Machine%20Learning&descAlignY=58&descSize=18" width="100%"/> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=8EDF5F&center=true&vCenter=true&width=650&lines=Matem%C3%A1tico+Computacional+%F0%9F%94%AC;Topological+Data+Analysis+%2B+Biologia+%F0%9F%A7%AC;Python+%7C+Machine+Learning+%7C+LaTeX;Sempre+construindo+algo+novo+%F0%9F%9A%80" alt="Typing SVG" /> </a> <br/> <img src="https://img.shields.io/badge/Formado%20em-Matem%C3%A1tica%20Computacional-995CD0?style=for-the-badge&labelColor=1a1a2e" /> <img src="https://img.shields.io/badge/Foco-TDA%20%26%20Machine%20Learning-8EDF5F?style=for-the-badge&labelColor=1a1a2e&logoColor=1a1a2e" /> <img src="https://img.shields.io/badge/Buscando-Mestrado-995CD0?style=for-the-badge&labelColor=1a1a2e" /> </div> <br/>
+🧠 Sobre mim
+<img align="right" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="260">
+🎓 Formado em Matemática Computacional (DMA/UFS) — Julho de 2026
+🔬 Meu TCC aplica Topological Data Analysis (TDA) — homologia persistente e distâncias dinâmicas — para classificar estados conformacionais da proteína Maltose-Binding Protein (MBP)
+📈 No trabalho, um classificador SVM superou o RMSD clássico (93,10% vs 89,66% de acurácia), validado com testes de permutação
+🎯 Meu próximo passo é o mestrado fora do meu estado (Sergipe) — meu principal alvo é o LNCC, em modelagem computacional, machine learning e ciência de dados
+🐍 Trabalho com Python no dia a dia: pipelines científicos, visualização 3D interativa e documentos em LaTeX
+🛠️ Gosto de sair da teoria e construir ferramentas próprias — de automações a soluções de negócio
+🌱 Interesse contínuo na interseção entre topologia, biofísica e machine learning
+<br clear="right"/>
+🚀 Projetos em destaque
+<table width="100%"> <tr> <td width="50%" valign="top"> <h3>🧬 TDA aplicada à Biologia Estrutural</h3> <p>TCC: classificação de estados conformacionais (aberto/fechado) da proteína MBP usando homologia persistente, distâncias dinâmicas e SVM, com validação estatística via testes de permutação.</p> <img src="https://img.shields.io/badge/Python-995CD0?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/scikit--learn-8EDF5F?style=flat-square&logo=scikitlearn&logoColor=1a1a2e"/> <img src="https://img.shields.io/badge/Plotly-995CD0?style=flat-square&logo=plotly&logoColor=white"/> <img src="https://img.shields.io/badge/LaTeX-8EDF5F?style=flat-square&logo=latex&logoColor=1a1a2e"/> <br/><br/> <a href="#"><img src="https://img.shields.io/badge/Ver_repositório-1a1a2e?style=for-the-badge&logo=github&logoColor=white"/></a> </td> <td width="50%" valign="top"> <h3>🤖 CRM de Automação de Mensagens</h3> <p>Ferramenta própria de automação de mensagens para gestão de carteira de clientes, desenvolvida para o setor de seguros veiculares — pensada para ser oferecida a outros gestores como produto.</p> <img src="https://img.shields.io/badge/Python-995CD0?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Automação-8EDF5F?style=flat-square&logo=zapier&logoColor=1a1a2e"/> <img src="https://img.shields.io/badge/API-995CD0?style=flat-square&logo=meta&logoColor=white"/> <br/><br/> <a href="#"><img src="https://img.shields.io/badge/Ver_repositório-1a1a2e?style=for-the-badge&logo=github&logoColor=white"/></a> </td> </tr> <tr> <td width="50%" valign="top"> <h3>📦 Embalagem Sustentável para E-commerce</h3> <p>Estudo e proposta de solução logística para reduzir avarias e custos de uma operação de e-commerce, com foco em sustentabilidade, tempo de montagem e experiência de unboxing.</p> <img src="https://img.shields.io/badge/Análise_de_dados-995CD0?style=flat-square&logo=googlesheets&logoColor=white"/> <img src="https://img.shields.io/badge/Sustentabilidade-8EDF5F?style=flat-square&logo=leaflet&logoColor=1a1a2e"/> <br/><br/> <a href="#"><img src="https://img.shields.io/badge/Ver_repositório-1a1a2e?style=for-the-badge&logo=github&logoColor=white"/></a> </td> <td width="50%" valign="top"> <h3>✨ Seu próximo projeto aqui</h3> <p>Espaço reservado para o seu próximo projeto de destaque — troque este bloco por qualquer repositório novo que quiser exibir.</p> <img src="https://img.shields.io/badge/Em_breve-995CD0?style=flat-square"/> <br/><br/> <a href="#"><img src="https://img.shields.io/badge/Ver_repositório-1a1a2e?style=for-the-badge&logo=github&logoColor=white"/></a> </td> </tr> </table>
+🛠️ Stack & Ferramentas
+<div align="center"> <img src="https://img.shields.io/badge/Python-995CD0?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Jupyter-8EDF5F?style=for-the-badge&logo=jupyter&logoColor=1a1a2e"/> <img src="https://img.shields.io/badge/LaTeX-995CD0?style=for-the-badge&logo=latex&logoColor=white"/> <img src="https://img.shields.io/badge/NumPy-8EDF5F?style=for-the-badge&logo=numpy&logoColor=1a1a2e"/> <img src="https://img.shields.io/badge/Pandas-995CD0?style=for-the-badge&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/scikit--learn-8EDF5F?style=for-the-badge&logo=scikitlearn&logoColor=1a1a2e"/> <img src="https://img.shields.io/badge/Plotly-995CD0?style=for-the-badge&logo=plotly&logoColor=white"/> <img src="https://img.shields.io/badge/Git-8EDF5F?style=for-the-badge&logo=git&logoColor=1a1a2e"/> <img src="https://img.shields.io/badge/VS_Code-995CD0?style=for-the-badge&logo=visualstudiocode&logoColor=white"/> </div>
+📊 Estatísticas do GitHub
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&hide_border=true&bg_color=00000000&title_color=995CD0&icon_color=8EDF5F&text_color=c9d1d9" width="49%"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&hide_border=true&bg_color=00000000&title_color=995CD0&text_color=c9d1d9&langs_count=8" width="35%"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU-USUARIO&hide_border=true&background=00000000&ring=995CD0&fire=8EDF5F&currStreakLabel=8EDF5F&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b8b8b" width="70%"/> </div>
+🏆 Troféus
+<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=SEU-USUARIO&no-frame=true&no-bg=true&row=1&column=6&title.color=995CD0&icons.color=8EDF5F&text.color=c9d1d9" /> </div>
+🐍 Snake dinâmica de contribuições
+<!-- Toque "dinâmico": esta cobrinha anima suas contribuições reais. Para ativar, crie um workflow do GitHub Actions no seu perfil usando a ação Platane/snk (https://github.com/Platane/snk) — é gratuito e leva ~5 minutos. Depois de configurado, a imagem abaixo aparece automaticamente. --> <div align="center"> <img src="https://raw.githubusercontent.com/SEU-USUARIO/SEU-USUARIO/output/github-contribution-grid-snake.svg" width="100%"/> </div>
+📫 Vamos conversar?
 <div align="center">
 
-### Linguagens
-<img src="https://skillicons.dev/icons?i=python,js,lua,c,nodejs" />
-
-### Áreas de Interesse
-![Data Science](https://img.shields.io/badge/Data%20Science-1a2a6c?style=for-the-badge&logo=databricks&logoColor=white)
-![IA](https://img.shields.io/badge/Inteligência%20Artificial-1a2a6c?style=for-the-badge&logo=openai&logoColor=white)
-![Backend](https://img.shields.io/badge/Backend%20%2F%20APIs-1a2a6c?style=for-the-badge&logo=fastapi&logoColor=white)
-![Automação](https://img.shields.io/badge/Automação-1a2a6c?style=for-the-badge&logo=githubactions&logoColor=white)
-![Banco de Dados](https://img.shields.io/badge/Banco%20de%20Dados-1a2a6c?style=for-the-badge&logo=postgresql&logoColor=white)
-![MTA](https://img.shields.io/badge/MTA%3A_SA_Modding-1a2a6c?style=for-the-badge&logo=lua&logoColor=white)
-
-### Ferramentas
-<img src="https://skillicons.dev/icons?i=git,github,vscode,sqlite" />
-<br/><br/>
-<img src="https://img.shields.io/badge/FileZilla-1a2a6c?style=for-the-badge&logo=filezilla&logoColor=white" alt="FileZilla"/>
-
-</div>
-
-## <img src="icons/status.svg" width="32" align="center"/> Estatísticas do GitHub
-
-<br/>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/phelipee15/phelipee15/stats-output/stats.svg" height="200" alt="stats graph"/>
-  <img src="https://raw.githubusercontent.com/phelipee15/phelipee15/languages-output/languages.svg" height="200" alt="languages graph"/>
-  <img src="https://raw.githubusercontent.com/phelipee15/phelipee15/activity-graph-output/activity-graph.svg" height="400" alt="activity-graph graph"/>
-</div>
-
-<br/>
-
-<!-- Cobrinha -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/phelipee15/phelipee15/snake-output/snake.svg" alt="Snake animation"/>
-</div>
-
-## <img src="icons/sourcescripts.svg" width="24" align="center"/> SourceScripts
-
-<div align="center">
-
-<a href="https://sourcescripts.com.br" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/sourcescripts.com.br-1a2a6c?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=1a2a6c" alt="SourceScripts"/>
-</a>
+<a href="#"><img src="https://img.shields.io/badge/LinkedIn-995CD0?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="#"><img src="https://img.shields.io/badge/E--mail-8EDF5F?style=for-the-badge&logo=gmail&logoColor=1a1a2e"/></a> <a href="#"><img src="https://img.shields.io/badge/Portfólio-995CD0?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
 
 <br/><br/>
 
-### Sobre a SourceScripts
-
-A **Source Scripts** é uma loja especializada no desenvolvimento e comercialização de **resources (mods) para MTA:SA**, consolidada no mercado pela qualidade técnica e compromisso com a comunidade.
-
-Nossa principal marca é o **MDPM** — um resource amplamente adotado por servidores automotivos e um dos produtos de maior destaque da loja, reconhecido por seu desempenho e a experiência que entrega.
-
-Nossa missão é desenvolver resources de alta qualidade para MTA:SA, aliando **desempenho e inovação**, com foco em facilitar a gestão de servidores, valorizar a experiência dos jogadores e oferecer soluções confiáveis — transformando ideias em sistemas funcionais.
-
-<br/>
-
-### Tecnologia por trás
-
-<img src="https://skillicons.dev/icons?i=lua,nodejs,mysql,sqlite" />
-
-<br/>
-
-### Nossos Valores
-
-<br/>
-
-<div align="center">
-  <img src="icons/valores.svg" alt="Nossos Valores — Inovação, Compromisso, Identidade" width="760"/>
-</div>
-
-<br/>
-
-> *"Transformando ideias em realidade desde 2024."*
-
-<br/>
-
-[![Ver produtos](https://img.shields.io/badge/Ver%20produtos-1a2a6c?style=for-the-badge&logo=cart&logoColor=white)](https://sourcescripts.com.br/shop)
-[![Demonstrações](https://img.shields.io/badge/Demonstrações-1a2a6c?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@phelipee15)
-
-</div>
-
-<!-- Footer -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a2a6c,50:3e5abb,100:2b4aad&height=100&section=footer" width="100%"/>
-</div>
+<img src="https://komarev.com/ghpvc/?username=SEU-USUARIO&color=995CD0&style=for-the-badge&label=Visitas+no+perfil"/> </div> <img src="https://capsule-render.com/api?type=waving&color=0:8EDF5F,100:995CD0&height=120&section=footer" width="100%"/>

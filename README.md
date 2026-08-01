@@ -126,7 +126,7 @@
       <img src="https://img.shields.io/badge/NLP-8EDF5F?style=flat-square"/>
       <img src="https://img.shields.io/badge/%C3%81lgebra_Linear-EC7744?style=flat-square"/>
       <br/><br/>
-      <a href="https://github.com/AnthonyMrqs/Corretor-Otografico.git" target="_blank">
+      <a href="https://github.com/AnthonyMrqs/Corretor-Ortografico.git" target="_blank">
         <img src="https://img.shields.io/badge/Ver_reposit%C3%B3rio-201D30?style=for-the-badge&logo=github&logoColor=white"/>
       </a>
     </td>

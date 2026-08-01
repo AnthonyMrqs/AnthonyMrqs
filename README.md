@@ -13,7 +13,7 @@
 
 ## 🧠 Sobre mim
 
-<img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="260">
+<img align="right" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="center">
 
 * 🎓 **Formado em Matemática Aplicada e Computacional (UFS)** — Julho de 2026
 * 🔬 Aplico **Topological Data Analysis**, homologia persistente e modelagem estatística para transformar dados complexos em classificações
@@ -152,7 +152,7 @@
   <img src="https://img.shields.io/badge/VS_Code-EC7744?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AnthonyMrqs&show_icons=true&hide_border=true&bg_color=00000000&title_color=995CD0&icon_color=8EDF5F&text_color=c9d1d9" width="49%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnthonyMrqs&layout=compact&hide_border=true&bg_color=00000000&title_color=995CD0&text_color=c9d1d9&langs_count=8" width="35%"/>
   <img src="https://streak-stats.demolab.com/?user=AnthonyMrqs&hide_border=true&background=00000000&ring=995CD0&fire=EC7744&currStreakLabel=8EDF5F&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b8b8b" width="70%"/>
@@ -167,8 +167,8 @@
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/AnthonyMrqs/AnthonyMrqs/output/github-contribution-grid-snake.svg" width="100%"/>
-</div>
+  <img src="https://raw.githubusercontent.com/AnthonyMrqs/AnthonyMrqs/snake-output/snake.svg" width="100%"/>
+</div> -->
 
 ## 📫 Contatos
 

@@ -20,7 +20,6 @@
 * 📐 Modelo fenômenos físicos e sociais com **Equações Diferenciais** e sistemas dinâmicos
 * 🐍 Trabalho com **Python** no dia a dia: pipelines científicos, automação de processos e visualização de dados
 * 🛠️ Gosto de sair da teoria e **construir ferramentas próprias** — de sistemas de automação a soluções para problemas reais
-* 👥 Tenho experiência **liderando projetos multidisciplinares** em equipe, do planejamento à execução
 
 <br clear="right"/>
 
@@ -153,8 +152,6 @@
   <img src="https://img.shields.io/badge/VS_Code-EC7744?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 </div>
 
-## 📊 Estatísticas do GitHub
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AnthonyMrqs&show_icons=true&hide_border=true&bg_color=00000000&title_color=995CD0&icon_color=8EDF5F&text_color=c9d1d9" width="49%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnthonyMrqs&layout=compact&hide_border=true&bg_color=00000000&title_color=995CD0&text_color=c9d1d9&langs_count=8" width="35%"/>
@@ -176,17 +173,20 @@
 ## 📫 Contatos
 
 <div align="center">
-  <a href="#">
+  <a href="https://www.linkedin.com/in/anthonymarques09/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-995CD0?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="#">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=anthonymarques050@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/E--mail-8EDF5F?style=for-the-badge&logo=gmail&logoColor=201D30"/>
   </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Portf%C3%B3lio-EC7744?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+  <a href="https://lattes.cnpq.br/8470106479716686" target="_blank">
+    <img src="https://img.shields.io/badge/Curr%C3%ADculo_Lattes-554877?style=for-the-badge"/>
   </a>
+  <!-- <a href="#">
+    <img src="https://img.shields.io/badge/Portf%C3%B3lio-EC7744?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+  </a> -->
   <br/><br/>
-  <img src="https://komarev.com/ghpvc/?username=AnthonyMrqs&color=995CD0&style=for-the-badge&label=Visitas+no+perfil"/>
+  <!-- <img src="https://komarev.com/ghpvc/?username=AnthonyMrqs&color=995CD0&style=for-the-badge&label=Visitas+no+perfil"/> -->
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:EC7744,100:201D30&height=120&section=footer" width="100%"/>
